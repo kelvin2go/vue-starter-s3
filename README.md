@@ -1,4 +1,4 @@
-# Vue starter with nuxt SPA
+# Vue starter SPA
 
 ## Recommended version
 
