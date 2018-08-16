@@ -1,9 +1,4 @@
-# GoGoVAN web-track-and-trace
-
-> A GoGoVAn web project SPA for track and trace view
-
-Demo : 
-
+# Vue starter with nuxt SPA
 
 ## Recommended version
 
